@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Trouble (Mike Williams Remix)",
+  "base_artist": "R3HAB",
+  "createdAt": "2026-03-10T20:54:45.732496Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Trouble (Mike Williams Remix)",
+      "artist": "R3hab",
+      "has_synced": true,
+      "path": "select/01_Trouble_(Mike_Williams_Remix)_R3hab.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Trouble (Mike Williams Remix)",
+      "artist": "R3hab",
+      "has_synced": true,
+      "path": "select/02_Trouble_(Mike_Williams_Remix)_R3hab.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Trouble (Mike Williams Remix)",
+      "artist": "Mike Williams",
+      "has_synced": true,
+      "path": "select/03_Trouble_(Mike_Williams_Remix)_Mike_Williams.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Trouble (Mike Williams Remix)",
+      "artist": "R3HAB ft. VÉRITÉ",
+      "has_synced": true,
+      "path": "select/04_Trouble_(Mike_Williams_Remix)_R3HAB_ft._VÉRITÉ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Trouble (Mike Williams Remix) (feat. Vérité)",
+      "artist": "R3HAB",
+      "has_synced": true,
+      "path": "select/05_Trouble_(Mike_Williams_Remix)_(feat._Vérité)_R3HAB.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Trouble (Mike Williams Remix)",
+      "artist": "Mike Williams、VÉRITÉ、R3hab",
+      "has_synced": true,
+      "path": "select/06_Trouble_(Mike_Williams_Remix)_Mike_Williams、VÉRITÉ、R3hab.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Trouble (Mike Williams Remix)",
+      "artist": "R3HAB Vérité Mike Williams",
+      "has_synced": true,
+      "path": "select/07_Trouble_(Mike_Williams_Remix)_R3HAB_Vérité_Mike_Williams.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Trouble - Mike Williams Remix",
+      "artist": "R3HAB, VÉRITÉ, Mike Williams",
+      "has_synced": false,
+      "path": "select/pl_01_Trouble_-_Mike_Williams_Remix_R3HAB,_VÉRITÉ,_Mike_Williams.txt"
+    }
+  ]
+}
